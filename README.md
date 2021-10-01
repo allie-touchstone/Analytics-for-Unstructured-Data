@@ -1,5 +1,6 @@
 # Analytics for Unstructured Data
 Analytics for Unstructured Data (MIS284N) UT MSBA Fall 2021
+Group Members: Sahil Arora, Kaushik Kumaran, Ayush Malani, Harsh Mehta, Charan Musunru, Allie Touchstone   
 
 ## LuxuryCarAnalysis
 Group Assignment #1
